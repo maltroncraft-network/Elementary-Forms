@@ -1,0 +1,10 @@
+title: Ranks
+command: ranks
+description: 'Ranks Main Menu'
+open_permission: rank.menu
+
+elements:
+  ???:
+    text: ???
+    permission: 'rank.menu.????'
+    command: 'lp user @p setprefix ???'
