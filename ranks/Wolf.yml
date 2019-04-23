@@ -1,1 +1,11 @@
+title: Wolf
+command: wolf-rank
+description: 'Wolf Rank Menu'
+open_permission: rank.menu.wolf
 
+elements:
+#wip
+  Wolf:
+    text: Wolf
+    permission: 'rank.menu.wolf.open'
+    command: 'lp user @p setprefix ???'
