@@ -6,34 +6,38 @@ open_permission: rank.menu.wolf
 elements:
 #wip
   Wolf:
+    text: Wolf <Blue>
+    permission: 'rank.menu.wolf.set'
+    command: 'lp user @p setsuffix &9wolf'
+  Wolf:
     text: Wolf <color>
-    permission: 'rank.menu.wolf.open'
+    permission: 'rank.menu.wolf.set'
     command: 'lp user @p setsuffix &<color code>wolf'
   Wolf:
     text: Wolf <color>
-    permission: 'rank.menu.wolf.open'
+    permission: 'rank.menu.wolf.set'
     command: 'lp user @p setsuffix &<color code>wolf'
   Wolf:
     text: Wolf <color>
-    permission: 'rank.menu.wolf.open'
+    permission: 'rank.menu.wolf.set'
     command: 'lp user @p setsuffix &<color code>wolf'
   Wolf:
     text: Wolf <color>
-    permission: 'rank.menu.wolf.open'
+    permission: 'rank.menu.wolf.set'
     command: 'lp user @p setsuffix &<color code>wolf'
   Wolf:
     text: Wolf <color>
-    permission: 'rank.menu.wolf.open'
+    permission: 'rank.menu.wolf.set'
     command: 'lp user @p setsuffix &<color code>wolf'
   Wolf:
     text: Wolf <color>
-    permission: 'rank.menu.wolf.open'
+    permission: 'rank.menu.wolf.set'
     command: 'lp user @p setsuffix &<color code>wolf'
   Wolf:
     text: Wolf <color>
-    permission: 'rank.menu.wolf.open'
+    permission: 'rank.menu.wolf.set'
     command: 'lp user @p setsuffix &<color code>wolf'
   Wolf:
     text: Wolf <color>
-    permission: 'rank.menu.wolf.open'
+    permission: 'rank.menu.wolf.set'
     command: 'lp user @p setsuffix &<color code>wolf'
