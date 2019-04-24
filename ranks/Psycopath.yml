@@ -1,0 +1,12 @@
+
+title: Psycopath
+command: psyco-rank
+description: 'Psycopath Rank Menu'
+open_permission: rank.menu.psycopath
+
+elements:
+#wip
+  green:
+    text: Psycopath <Green>
+    permission: 'rank.menu.psycopath.set'
+    command: 'lp user @p setsuffix &aPsycopath'
