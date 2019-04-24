@@ -6,6 +6,6 @@ open_permission: rank.menu.wolf
 elements:
 #wip
   Wolf:
-    text: Wolf
+    text: Wolf <color>
     permission: 'rank.menu.wolf.open'
     command: 'lp user @p setprefix ???'
