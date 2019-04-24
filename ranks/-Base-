@@ -1,0 +1,11 @@
+title: ???
+command: ???
+description: '??? Rank Menu'
+open_permission: rank.menu.???
+
+elements:
+#wip
+  ???:
+    text: Wolf <Blue>
+    permission: 'rank.menu.???.set'
+    command: 'lp user @p setsuffix ???'
