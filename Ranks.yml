@@ -4,7 +4,7 @@ description: 'Ranks Main Menu'
 open_permission: rank.menu
 
 elements:
-  ???:
-    text: ???
-    permission: 'rank.menu.????'
-    command: '????'
+  Wolf:
+    text: Wolf
+    permission: 'rank.menu.wolf'
+    command: 'wolf-rank'
